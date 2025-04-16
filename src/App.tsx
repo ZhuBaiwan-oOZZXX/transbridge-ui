@@ -1820,7 +1820,7 @@ function App() {
 
           {/* API信息 */}
           <div className="text-center text-xs text-gray-400 mb-2">
-            <p>© 2025 MowyAI翻译服务</p>
+            <p>© 2025 百万AI翻译服务</p>
           </div>
         </div>
 
